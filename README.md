@@ -1,0 +1,2 @@
+# Kolekti_reto_innovacion_informalidad_laboral
+Solución tecnológica que consiste en una página web para el registro de los datos sobre informalidad laboral en Ecuador. El registro de datos está vinculado a un servicio de red social para los trabajadores informales, donde podrán compartir experiencias y realizar contactos, encontrar recursos de desarrollo profesional y oportunidades laborales, además de promover el aprendizaje y una comunidad. 
